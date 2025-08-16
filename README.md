@@ -65,3 +65,7 @@ The backend listens on port 4000 by default. The frontend expects the backend at
 
 ## License
 MIT
+
+
+OUTPUT : -
+<img width="1887" height="838" alt="Image" src="https://github.com/user-attachments/assets/329011a2-bb99-4c1d-a7af-d5bd5de256e0" />
