@@ -1,5 +1,19 @@
 # Collaborative Editor — Starter
 
+COMPANY : CODTECH IT SOLUTIONS
+
+NAME    : PARTHIBHAN R
+
+INTERN ID : CT04DY372
+
+DOMAIN : FULL STACK WEB DEVELOPMENT
+
+DURATION : 4 WEEKS
+
+MENTIOR :  NEELA SANTHOSH
+
+DISCRIPTION : -
+
 This repository is a starter template for a real-time collaborative document editor.
 It includes a simple backend (Node.js + Express + Socket.IO + MongoDB) and a React frontend (Vite + Quill).
 
